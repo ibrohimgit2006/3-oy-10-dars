@@ -1,0 +1,58 @@
+header {
+    padding-top: 20px;
+    width: 1110px;
+    margin: 0 auto;
+    padding: 0 auto;
+    display: flex;
+    justify-content: space-between;
+
+    img {
+        width: 58.11px;
+        height: 20px;
+        margin-top: 7px;
+    }
+
+
+    ul {
+        width: Hug (549px);
+        height: Hug (56px);
+        display: flex;
+        gap: 30px;
+        padding-top: 7px;
+        margin-left: 240px;
+        list-style: none;
+        li {
+            font-family: Open Sans;
+            font-size: 15px;
+            font-weight: 400;
+            line-height: 24px;
+            color: #000000;
+
+            a {
+                color: #000000;
+                text-decoration: none;
+            }
+        }
+    }
+
+    button {
+        width: 159px;
+        height: 40px;
+        padding: 8px, 16px, 8px, 16px;
+        border-radius: 5px;
+        border: none;
+        background-color: #00BAFC;
+        margin-left: 110px;
+
+        p {
+            font-size: 15px;
+            font-weight: 700;
+            line-height: 24px;
+            color: #FFF;
+        }
+
+
+
+
+    }
+}
